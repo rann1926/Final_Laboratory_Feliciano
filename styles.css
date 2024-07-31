@@ -1,0 +1,17 @@
+.card {
+    margin-bottom: 20px;
+  }
+
+#head{
+    color: #1A5319;
+    font-weight: bold;
+}
+
+#searchBtn{
+    background-color: #80AF81;
+    color: white;
+}
+
+#newsContainer{
+    background-color: #50B498;
+}
