@@ -1,6 +1,6 @@
 Randy D. Feliciano - BSIT 3302 BA
 
-API: newsAPi
+API: NewsAPI
 
 Requirements: VISUAL STUDIO CODE APP
 
