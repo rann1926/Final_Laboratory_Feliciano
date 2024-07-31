@@ -3,7 +3,6 @@ $(document).ready(function() {
   let page = 1;
   let currentSearch = '';
   
-  // Default image URL
   const defaultImage = 'assets/news.jpg';
 
   const fetchNews = async () => {
@@ -52,7 +51,7 @@ $(document).ready(function() {
   $('#searchBtn').on('click', function() {
     currentSearch = $('#searchInput').val().trim();
     if (currentSearch !== '') {
-      page = 1; // Reset page to 1 for new searches
+      page = 1;
       fetchNews();
     }
   });
