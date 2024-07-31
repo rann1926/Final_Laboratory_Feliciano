@@ -10,7 +10,9 @@ STEPS:
 2. Open your visual studio app.
 3. Make sure that you install the live server extension in your visual studio app.
 4. Open the folder you created with the three files you downloaded.
-5. Right click the index.html file and choose "Open with Live Server".
-6. The HTML file will be loaded in your browser. In that interface, you can now search any category of news you want to read then click read more if youn want to read the whole article of that news.
+5. Create your own apikey at newsapi.org
+6. Go to script.js and input your own apikey inside the apiKey variable at line 2 then save.
+7. Right click the index.html file and choose "Open with Live Server".
+8. The HTML file will be loaded in your browser. In that interface, you can now search any category of news you want to read then click read more if youn want to read the whole article of that news.
 
 
